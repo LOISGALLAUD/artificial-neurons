@@ -8,7 +8,7 @@
 
 **Artificial neurons** are the basic unit of a neural network and are the building blocks of **neural networks**. They are inspired by the biological neurons in the human brain.
 
-|<img src="https://www.tibco.com/sites/tibco/files/media_entity/2021-05/neutral-network-diagram.svg" align="right" width=500>|
+|<img src="https://miro.medium.com/v2/resize:fit:1400/0*D06frVouKB2NddQF.png" align="right" width=500>|
 |:---:|
 |**Artificial Neuron Network**|
 
